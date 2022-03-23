@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cd832cf-8835-4115-9997-217d0742324c/deploy-status)](https://app.netlify.com/sites/meek-sawine-edb99b/deploys)
+
 <div align="center">
   <a href="https://hoppscotch.io">
     <img
